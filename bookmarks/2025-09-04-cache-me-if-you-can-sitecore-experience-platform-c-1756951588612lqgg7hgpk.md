@@ -1,11 +1,8 @@
 ---
 id: 1756951588612lqgg7hgpk
 title: Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)
-url: >-
-  https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/
-tags:
-  - security
-  - blog
+url: https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/
+tags: ["security", "blog"]
 createdAt: 2025-09-04T02:06:28.598Z
 updatedAt: 2025-09-04T02:06:28.864Z
 previewImagePath: assets/previews/1756951588612lqgg7hgpk.webp

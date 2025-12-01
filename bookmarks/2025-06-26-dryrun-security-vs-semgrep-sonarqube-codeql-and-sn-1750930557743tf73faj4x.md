@@ -1,14 +1,9 @@
 ---
 id: 1750930557743tf73faj4x
-title: >-
-  DryRun Security vs. Semgrep, SonarQube, CodeQL and Snyk – C# Security Analysis
+title: DryRun Security vs. Semgrep, SonarQube, CodeQL and Snyk – C# Security Analysis
   Showdown
-url: >-
-  https://www.dryrun.security/blog/dryrun-security-vs-semgrep-sonarqube-codeql-and-snyk---c-security-analysis-showdown
-tags:
-  - blog
-  - articles
-  - appsec
+url: https://www.dryrun.security/blog/dryrun-security-vs-semgrep-sonarqube-codeql-and-snyk---c-security-analysis-showdown
+tags: ["blog", "articles", "appsec"]
 created: 2025-06-26T09:35:57.732Z
 updated: 2025-06-26T09:35:58.966Z
 previewImagePath: assets/previews/1750930557743tf73faj4x.webp

@@ -2,10 +2,7 @@
 id: 1759371249746bb7vp4yjt
 title: Firebase Applications – The Untold Attack Surface | AppSec Labs
 url: 'https://appsec-labs.com/firebase-applications-the-untold-attack-surface/'
-tags:
-  - hacking
-  - firebasegooglehacking
-  - blog
+tags: ["hacking", "firebasegooglehacking", "blog"]
 createdAt: 2025-10-02T02:14:09.734Z
 updatedAt: 2025-10-02T02:14:11.068Z
 previewImagePath: assets/previews/1759371249746bb7vp4yjt.webp

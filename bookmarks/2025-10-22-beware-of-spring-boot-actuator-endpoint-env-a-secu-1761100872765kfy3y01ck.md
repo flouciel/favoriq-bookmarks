@@ -1,12 +1,9 @@
 ---
 id: 1761100872765kfy3y01ck
-title: >-
-  Beware of Spring Boot Actuator Endpoint env: A Security Alert - Igor
+title: Beware of Spring Boot Actuator Endpoint env: A Security Alert - Igor
   Venturelli
 url: 'https://igventurelli.io/endpoint-env-a-security-alert/'
-tags:
-  - security
-  - springboot
+tags: ["security", "springboot"]
 createdAt: 2025-10-22T02:41:12.748Z
 updatedAt: 2025-10-22T02:41:13.863Z
 previewImagePath: assets/previews/1761100872765kfy3y01ck.webp

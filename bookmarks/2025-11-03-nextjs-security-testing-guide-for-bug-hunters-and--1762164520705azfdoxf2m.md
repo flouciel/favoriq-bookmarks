@@ -2,9 +2,7 @@
 id: 1762164520705azfdoxf2m
 title: Next.js Security Testing Guide for Bug Hunters and Pentesters
 url: 'https://deepstrike.io/blog/nextjs-security-testing-bug-bounty-guide'
-tags:
-  - nextjs
-  - security
+tags: ["nextjs", "security"]
 createdAt: 2025-11-03T10:08:40.693Z
 updatedAt: 2025-11-03T10:08:42.452Z
 previewImagePath: assets/previews/1762164520705azfdoxf2m.webp

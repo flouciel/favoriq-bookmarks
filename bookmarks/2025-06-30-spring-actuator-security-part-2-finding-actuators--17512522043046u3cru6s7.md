@@ -1,13 +1,9 @@
 ---
 id: 17512522043046u3cru6s7
-title: >-
-  Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis
+title: Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis
   with semgrep
-url: >-
-  https://blog.maass.xyz/spring-actuator-security-part-2-finding-actuators-using-static-code-analysis-with-semgrep
-tags:
-  - appsec
-  - springboot
+url: https://blog.maass.xyz/spring-actuator-security-part-2-finding-actuators-using-static-code-analysis-with-semgrep
+tags: ["appsec", "springboot"]
 created: 2025-06-30T02:56:44.289Z
 updated: 2025-06-30T02:56:46.550Z
 previewImagePath: assets/previews/17512522043046u3cru6s7.webp

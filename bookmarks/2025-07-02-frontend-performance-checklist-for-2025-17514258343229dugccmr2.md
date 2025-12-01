@@ -1,12 +1,8 @@
 ---
 id: 17514258343229dugccmr2
 title: Frontend Performance Checklist For 2025
-url: >-
-  https://crystallize.com/blog/frontend-performance-checklist?utm_medium=social&utm_source=dailydev
-tags:
-  - blog
-  - articles
-  - dev
+url: https://crystallize.com/blog/frontend-performance-checklist?utm_medium=social&utm_source=dailydev
+tags: ["blog", "articles", "dev"]
 created: 2025-07-02T03:10:34.315Z
 updated: 2025-07-02T03:10:35.314Z
 previewImagePath: assets/previews/17514258343229dugccmr2.webp

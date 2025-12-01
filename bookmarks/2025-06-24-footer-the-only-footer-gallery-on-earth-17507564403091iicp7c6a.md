@@ -2,9 +2,7 @@
 id: 17507564403091iicp7c6a
 title: Footer — The only footer gallery on earth.
 url: 'https://www.footer.design/'
-tags:
-  - dev
-  - collection
+tags: ["dev", "collection"]
 created: 2025-06-24T09:14:00.306Z
 updated: 2025-06-24T09:14:00.974Z
 previewImagePath: assets/previews/17507564403091iicp7c6a.webp

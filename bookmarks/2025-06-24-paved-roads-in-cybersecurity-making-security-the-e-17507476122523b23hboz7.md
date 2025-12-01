@@ -2,9 +2,7 @@
 id: 17507476122523b23hboz7
 title: 'Paved Roads in Cybersecurity: Making Security the Easy Path'
 url: 'https://blog.shivamsaraswat.com/paved-roads/'
-tags:
-  - appsec
-  - blog
+tags: ["appsec", "blog"]
 created: 2025-06-24T06:46:52.103Z
 updated: 2025-06-24T06:46:53.031Z
 previewImagePath: assets/previews/17507476122523b23hboz7.webp

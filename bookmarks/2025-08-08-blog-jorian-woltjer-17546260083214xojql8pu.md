@@ -2,8 +2,7 @@
 id: 17546260083214xojql8pu
 title: Blog | Jorian Woltjer
 url: 'https://jorianwoltjer.com/blog'
-tags:
-  - blog
+tags: ["blog"]
 createdAt: 2025-08-08T04:06:48.288Z
 updatedAt: 2025-08-08T04:06:49.776Z
 previewImagePath: assets/previews/17546260083214xojql8pu.webp

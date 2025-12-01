@@ -2,9 +2,7 @@
 id: 175462629386446jx0hrzw
 title: 'Subdomain Takeover: Going for High Impact'
 url: 'https://0xpatrik.com/subdomain-takeover-impact/'
-tags:
-  - security
-  - blog
+tags: ["security", "blog"]
 createdAt: 2025-08-08T04:11:33.862Z
 updatedAt: 2025-08-08T04:11:34.133Z
 previewImagePath: assets/previews/175462629386446jx0hrzw.webp

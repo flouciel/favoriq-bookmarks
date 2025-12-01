@@ -2,10 +2,7 @@
 id: 1750730064249lb1ezf0r6
 title: 'Brave Software disclosed on HackerOne: Sending arbitrary IPC...'
 url: 'https://hackerone.com/reports/188086'
-tags:
-  - writeup
-  - h1
-  - security
+tags: ["writeup", "h1", "security"]
 created: 2025-06-24T01:54:24.230Z
 updated: 2025-06-24T01:54:26.299Z
 previewImagePath: assets/previews/1750730064249lb1ezf0r6.webp

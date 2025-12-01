@@ -2,11 +2,7 @@
 id: 1760015017136hzvar5b6k
 title: Cracking Open APK Files at Scale ◆ Truffle Security Co.
 url: 'https://trufflesecurity.com/blog/cracking-open-apk-files-at-scale'
-tags:
-  - blog
-  - articles
-  - trufflehog
-  - security
+tags: ["blog", "articles", "trufflehog", "security"]
 createdAt: 2025-10-09T13:03:37.127Z
 updatedAt: 2025-10-09T13:03:38.965Z
 previewImagePath: assets/previews/1760015017136hzvar5b6k.webp

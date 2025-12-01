@@ -1,6 +1,6 @@
 ---
 id: 1750837003022h9gekqude
-title: "Regular expression injection, a code review low hanging fruit"
+title: 'Regular expression injection, a code review low hanging fruit'
 url: https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html
 tags: ["security", "blog", "regex", "x"]
 created: 2025-06-25T07:36:43.013Z

@@ -2,9 +2,7 @@
 id: 1753669690874a97fyif06
 title: Grep a million GitHub repositories via MCP - Vercel
 url: 'https://vercel.com/blog/grep-a-million-github-repositories-via-mcp'
-tags:
-  - blog
-  - articles
+tags: ["blog", "articles"]
 createdAt: 2025-07-28T02:28:10.866Z
 updatedAt: 2025-07-28T02:28:11.506Z
 previewImagePath: assets/previews/1753669690874a97fyif06.webp

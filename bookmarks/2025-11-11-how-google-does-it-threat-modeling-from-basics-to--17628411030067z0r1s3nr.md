@@ -1,9 +1,8 @@
 ---
 id: 17628411030067z0r1s3nr
 title: 'How Google Does It: Threat modeling, from basics to AI | Google Cloud Blog'
-url: >-
-  https://cloud.google.com/transform/how-google-does-it-threat-modeling-from-basics-to-ai/
-tags: []
+url: https://cloud.google.com/transform/how-google-does-it-threat-modeling-from-basics-to-ai/
+tags: ["threatmodeling"]
 createdAt: 2025-11-11T06:05:02.989Z
 updatedAt: 2025-11-11T06:05:04.823Z
 previewImagePath: assets/previews/17628411030067z0r1s3nr.webp

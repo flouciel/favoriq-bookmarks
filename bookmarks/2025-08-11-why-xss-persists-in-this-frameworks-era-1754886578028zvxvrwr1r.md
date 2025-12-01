@@ -1,11 +1,8 @@
 ---
 id: 1754886578028zvxvrwr1r
 title: Why XSS Persists in This Frameworks Era?
-url: >-
-  https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/?utm_campaign=tl-dr-sec-291-build-a-guardduty-triage-agent-scaling-netflix-s-threat-detection-pipelines-claude-for-security-review&utm_medium=newsletter&utm_source=tldrsec.com
-tags:
-  - article
-  - blog
+url: https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/?utm_campaign=tl-dr-sec-291-build-a-guardduty-triage-agent-scaling-netflix-s-threat-detection-pipelines-claude-for-security-review&utm_medium=newsletter&utm_source=tldrsec.com
+tags: ["article", "blog"]
 createdAt: 2025-08-11T04:29:38.013Z
 updatedAt: 2025-08-11T04:29:39.388Z
 previewImagePath: assets/previews/1754886578028zvxvrwr1r.webp

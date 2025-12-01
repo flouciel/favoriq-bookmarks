@@ -2,9 +2,7 @@
 id: 1750495617161kdalbj2hu
 title: Is it just me - or is 2025 the year of scale? - Javan Rasokat
 url: 'https://javan.de/is-it-just-me-or-is-2025-the-year-of-scale/'
-tags:
-  - conferenceworkshop
-  - appsec
+tags: ["conferenceworkshop", "appsec"]
 created: 2025-06-21T08:46:57.146Z
 updated: 2025-06-21T08:46:58.065Z
 previewImagePath: assets/previews/1750495617161kdalbj2hu.webp

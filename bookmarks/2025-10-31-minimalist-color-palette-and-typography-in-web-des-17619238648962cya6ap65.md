@@ -2,9 +2,7 @@
 id: 17619238648962cya6ap65
 title: Minimalist Color Palette and Typography in Web Design | Bejamas
 url: 'https://bejamas.com/blog/minimalist-color-palette-and-typography-in-web-design'
-tags:
-  - blog
-  - uiux
+tags: ["blog", "uiux"]
 createdAt: 2025-10-31T15:17:44.887Z
 updatedAt: 2025-10-31T15:17:46.434Z
 previewImagePath: assets/previews/17619238648962cya6ap65.webp

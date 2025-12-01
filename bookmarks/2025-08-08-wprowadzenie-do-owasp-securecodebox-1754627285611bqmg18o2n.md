@@ -2,10 +2,7 @@
 id: 1754627285611bqmg18o2n
 title: Wprowadzenie do OWASP secureCodeBox
 url: 'https://sekurak.pl/wprowadzenie-do-owasp-securecodebox/'
-tags:
-  - scb
-  - appsec
-  - ppsec
+tags: ["scb", "appsec", "ppsec"]
 createdAt: 2025-08-08T04:28:05.603Z
 updatedAt: 2025-08-08T04:28:05.878Z
 previewImagePath: assets/previews/1754627285611bqmg18o2n.webp

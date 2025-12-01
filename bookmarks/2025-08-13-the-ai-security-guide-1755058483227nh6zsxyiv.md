@@ -2,7 +2,7 @@
 id: 1755058483227nh6zsxyiv
 title: The AI Security Guide
 url: 'https://secureaiguide.com/'
-tags: []
+tags: ["security", "ai"]
 createdAt: 2025-08-13T04:14:42.592Z
 updatedAt: 2025-08-13T04:14:44.744Z
 previewImagePath: assets/previews/1755058483227nh6zsxyiv.webp
